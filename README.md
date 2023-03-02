@@ -1,2 +1,2 @@
 # HumidityManager
-Python Script for Managing Reptile Vivarium Humidity Using SensorPush Humidity Sensors and VeSync Smart Outlets
+Python script for managing reptile vivarium humidity using SensorPush humidity sensors and VeSync smart outlets
