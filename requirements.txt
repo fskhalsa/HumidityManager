@@ -1,0 +1,6 @@
+# (C) 2023 - Fateh Singh Khalsa
+# Humidity Manager - Project Dependencies
+
+python-dotenv
+pysensorpush
+pyvesync

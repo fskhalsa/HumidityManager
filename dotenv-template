@@ -1,0 +1,10 @@
+# (C) 2023 - Fateh Singh Khalsa
+# Humidity Manager - API Access Credentials (private; don't commit)
+
+# RENAME THIS FILE TO '.env', AND REPLACE WITH YOUR CREDENTIALS BELOW
+
+#setup credentials
+HM_SENSORPUSH_USER = 'your_sensorpush_username_here'
+HM_SENSORPUSH_PASSWORD = 'your_sensorpush_password_here'
+HM_VESYNC_USER = 'your_vesync_username_here'
+HM_VESYNC_PASSWORD = 'your_vesync_password_here'
